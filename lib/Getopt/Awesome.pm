@@ -110,7 +110,7 @@ our %EXPORT_TAGS = (
     'common' => [ qw(define_option define_options get_opt set_opt) ],
 );
 
-our $VERSION = '0.1.2';
+our $VERSION = '0.1.3';
 
 
 my (%options, $parsed_args, $show_usage, %args);
